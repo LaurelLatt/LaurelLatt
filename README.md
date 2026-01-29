@@ -1,16 +1,18 @@
-## Introducing Myself 👋
+## Hi, I'm Laurel Latt 👋
 
-Hello, my name is Laurel Latt and I'm currently a senior at Chapman University. I'm a software engineering major and game development minor.
+I’m a senior at Chapman University studying **Software Engineering**, with a minor in **Game Development**. I enjoy building projects across platforms that intersect with my hobbies, 
+and I’m especially interested in interactive and immersive technologies.
 
 ### Portfolio Projects
-Use the following links to see some of my recent projects, or looked at my pinned repos.
+Check out some of my recent work below, or explore my pinned repositories.
 
-- [Sip Stats](https://github.com/LaurelLatt/SipStats): An iOS app that allows you to log and track your favorite drinks and cafes.
-- [Sudoku](https://github.com/LaurelLatt/Sudoku): A Unity developed program that functions as a simple sudoku game.
-- [Sports Reacting](https://github.com/LaurelLatt/SportsReacting): A full stack web application for rating and reacting to sports games.
+- [Sip Stats](https://github.com/LaurelLatt/SipStats) - An iOS app for logging and tracking favorite drinks and cafés.
+- [Sudoku](https://github.com/LaurelLatt/Sudoku) - A Unity-based implementation of a classic Sudoku game.
+- [Sports Reacting](https://github.com/LaurelLatt/SportsReacting) - A full-stack web application for rating and reacting to sports games.
 
 ### Connect with me!
-- [Linkedin](www.linkedin.com/in/laurellatt)
+- [LinkedIn](www.linkedin.com/in/laurellatt)
+
 <!--
 **LaurelLatt/LaurelLatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
