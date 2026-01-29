@@ -11,7 +11,7 @@ Check out some of my recent work below, or explore my pinned repositories.
 - [Sports Reacting](https://github.com/LaurelLatt/SportsReacting) - A full-stack web application for rating and reacting to sports games.
 
 ### Connect with me!
-- [LinkedIn](www.linkedin.com/in/laurellatt)
+- [LinkedIn](https://www.linkedin.com/in/laurellatt)
 
 <!--
 **LaurelLatt/LaurelLatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
